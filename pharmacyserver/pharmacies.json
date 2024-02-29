@@ -1,0 +1,1786 @@
+{
+    "Casablanca": [
+      {
+        "name": "Intellix",
+        "address": "rue de Pierrefonds ang. rue Mohamed Slaoui, résid, Clementine, 1°ét. Quartier: Belvédère 20310 CASABLANCA"
+      },
+      {
+        "name": "Univers Rangement",
+        "address": "quartier Polo, c.com. Badr, rue 11 n°1 Quartier: Californie 20150 CASABLANCA"
+      },
+      {
+        "name": "Archi-in",
+        "address": "4, bd Mohamed Zerktouni, 5°ét. Quartier: Centre Ville 20000 CASABLANCA"
+      },
+      {
+        "name": "Laboratoire Hamzaoui d'Analyses Médicales",
+        "address": "64, bd Moulay Idriss 1er, ang. bd 2 Mars, r.d.c. Quartier: Hôpitaux CASABLANCA"
+      },
+      {
+        "name": "Faculté de Médecine et de pharmacie",
+        "address": "19, rue Tarik Bnou Ziad Quartier: Hôpitaux 20100 CASABLANCA"
+      },
+      {
+        "name": "Grande Pharmacie Commerciale",
+        "address": "9, bd Mohammed V Quartier: Centre Ville 20000 CASABLANCA"
+      },
+      {
+        "name": "Grande Pharmacie Sidi Bernoussi",
+        "address": "cité Sidi Bernoussi, av Ahmed Ben Mohamed ElAbdi Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Grande Pharmacie de Paris",
+        "address": "60, rue Allal Ben Abdallah Quartier: Centre Ville 20000 CASABLANCA"
+      },
+      {
+        "name": "Grande pharmacie du Maroc",
+        "address": "place Bandoeng Quartier: Centre Ville 20110 CASABLANCA"
+      },
+      {
+        "name": "L'Essentiel de la Para Pharmacie",
+        "address": "39, rue Ibn Habous Quartier: Maarif CASABLANCA"
+      },
+      {
+        "name": "Ma Pharmacie",
+        "address": "Fath II , sidi Maârouf n°30 bis Quartier: Sidi Maarouf CASABLANCA"
+      },
+      {
+        "name": "Para & Pharmacie du Mall",
+        "address": "c. com Morocco Mall bd de l'Océan Atlantique Quartier: Aïn Diab CASABLANCA"
+      },
+      {
+        "name": "Para Pharmacie Hajja Meryem s.a.r.l.",
+        "address": "lot Al Baraka, Gh5 imm. 64 mag. n°4 Quartier: Hay Hassani CASABLANCA"
+      },
+      {
+        "name": "Para Pharmacie Harmonie",
+        "address": "69, bd de Témara, Aïn Chok Quartier: Aïn Chok CASABLANCA"
+      },
+      {
+        "name": "Para Pharmacie le Rajeunissement",
+        "address": "cité Chabab, zone A2A imm. 16 n°121 Quartier: Aïn Sebaâ CASABLANCA"
+      },
+      {
+        "name": "Pharmacie 2M",
+        "address": "128, allée des Orangers Quartier: Oukacha 20580 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Aba Chouaïb Doukkali",
+        "address": "834, bd Aba Chouaïb Doukali Quartier: Hay El Farah 20530 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdelhadi",
+        "address": "149, avenue Akid Allam Quartier: Hay Moulay Rachid 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdelkader Essahraoui",
+        "address": "52, avenue Abdelkader Essahraoui Quartier: Hay Moulay Rachid CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdelkarim",
+        "address": "hay Rahma, rue 1 n°2, 3 et 4 Quartier: Hay Moulay Rachid 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdellatif",
+        "address": "lotiss. Alhadika, imm. 1 mag. 1 Quartier: Sidi Moumen 20640 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdelmoumen",
+        "address": "116, bd Abdelmoumen Quartier: Derb Ghalef - France Ville 20340 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdessalam",
+        "address": "Hay Chrifa, rue 3 n°30 bis Quartier: Aïn Chok 20460 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdessamad",
+        "address": "lot. El Azhar Lot. 12 z.i.4 Quartier: Sidi Moumen 20630 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abdou",
+        "address": "cité Sidi Othmane bloc 4, rue 46 n°28 bis Quartier: Sidi Othman 20700 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abi Houraira",
+        "address": "21, avenue Abou Houraïra, Cplxe Abi Houraira Quartier: Ben M'Sik 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abi Regrag",
+        "address": "bd Oued Abi Raqraq Ang. rue n°3 oulfa Quartier: Oulfa 20220 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abir",
+        "address": "hay Sidi Moumen, grp.6 rue 22 n°3 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abna Achouhada",
+        "address": "Hay Saïda, rue 10 n°127 Quartier: Hay Mohammadi 20560 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abou Ayoub",
+        "address": "avenue du Dix Mars, hay El Wahda I rue 1 n°1 Quartier: Sidi Othman CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abou Bakr",
+        "address": "avenue du Cdt Driss Lharti - ex A, grp. 4 Quartier: Hay Moulay Rachid 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abou Dabi",
+        "address": "9 Bis, rue des Bouvreuils, ang. rue Abou Dabi Quartier: Oasis 20410 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abou Soulaimane",
+        "address": "4, rue Abou Soulaimane El Khattabi Quartier: Mers Sultan 21490 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Abou Zaid",
+        "address": "hay Massira II, rue 36 n°4 Quartier: Hay Moulay Rachid 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Aboulkacem Chabbi",
+        "address": "hay Mohammadi, lot F Dar Lamane, n°11-12 Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Acharaf",
+        "address": "96, rue Socrate Quartier: Maarif 20380 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Achir",
+        "address": "lotiss. Mandarona, rue 14 n°101, Aïn Chok Quartier: Aïn Chok 20460 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Achourouk",
+        "address": "quartier Beausite, 06 n°1 EQ8, Addoha I Quartier: Aïn Sebaâ 20250 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Achraf",
+        "address": "bd Anoual -ex Felix Faure, résid. Annajd, imm.20 Quartier: Derb Ghalef - France Ville 20340 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Actuelle",
+        "address": "cité Sidi Bernoussi, Km 12,5 Rp1 Boustane II, imm. 13 mag. 5 et 6 Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ad-damane",
+        "address": "600, bd El Qods, lotiss. Al Hamra II Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Adam",
+        "address": "lotiss. Basbassa (Ain Sebaâ), rue 3 n°72 Ain Sebâa Quartier: Aïn Sebaâ 20580 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Addahab",
+        "address": "hay Jamila V (cité Djemaa) ang. rue 70 et rue 120 Quartier: Sbata 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Addiar",
+        "address": "Hay Inara I, rue Addiar Al Jadida n°16 Quartier: Aïn Chok 20460 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Addoha",
+        "address": "avenue Stendhal Quartier: Al Batha 20390 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Adiba",
+        "address": "181, avenue Reda Guédira -ex Nil, Bloc 23 Quartier: Ben M'Sik 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Adil",
+        "address": "hay Mohammadi, ElMassira imm.71, n°3 Quartier: Aïn Borja 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Afak",
+        "address": "hay Mohammadi, bloc 22 rue 6 n°74 Quartier: Hay Mohammadi 20350 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Afif",
+        "address": "route d' El jadida, Kasbat Alamine imm. 4 mag n° 10 Quartier: Oulfa 20230 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Afriquia",
+        "address": "1017, bd Mohammed VI Quartier: Sbata 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ahl Albadr",
+        "address": "quartier Beausite, lot. Albadr, imm.83, GH 09, n° 8, Aïn Sebaâ Quartier: Aïn Sebaâ 20250 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ahlan",
+        "address": "cité Sidi Othmane II, rue 6 n°2-4, Quartier: Sidi Othman 20700 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ahmed",
+        "address": "hay El Oulfa, Wifaq 2 ang. rue 40 n°75 et rue 63 n°3 Quartier: Oulfa 20220 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ahmed Ali",
+        "address": "lotiss. Al Fath n°60 bis , Sidi Maârouf Quartier: Sidi Maarouf 20280 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ahmida",
+        "address": "rte 1100 cplxe com. Sidi Maarouf , Oulad Haddou Quartier: Sidi Maarouf 20280 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Aicha",
+        "address": "167, bd Modibo Keita Quartier: Nouvelle Médina 20520 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Aida",
+        "address": "196, bd Mohamed Zerktouni Quartier: Gautier 20060 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ain Chok",
+        "address": "pl. de la Grande Mosquée, bd Temara Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Alaa",
+        "address": "avenue Lhoussine Assoussi, 11, Imm. G. lot Al Alaa Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Amne",
+        "address": "1, rue du Golo Quartier: Polo 20420 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Iman",
+        "address": "Hay ElFath 3, rue 4 n°70 Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Madina",
+        "address": "quartier Beausite, résid. Al Badr, Gpr 3B, imm.27, n°4, Aïn Sébaâ Quartier: Aïn Sebaâ 20250 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Mawlid",
+        "address": "rue Ibn Katir ang. rue Abou Hassan Saghir, résid. AlMawlid Quartier: Maarif 20380 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Maâli",
+        "address": "hay Moulay Rachid, grp. 6, rue V n°45 Quartier: Hay Moulay Rachid 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Mouna",
+        "address": "hay Omar Ibn Khattab, rue 1 n°57 bis Quartier: Hay El Farah 20540 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Oum",
+        "address": "hay Sidi Moumen Jdid, lot. Meryeme n° 6 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al Walaâ",
+        "address": "hay Alwalaa sect 2, imm. 4, tranche 15 Quartier: Sidi Moumen 20640 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Mouna",
+        "address": "95 Bis, bd Oqba Bnou Nafiaa, grp.4 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie AlAhd El Jadid",
+        "address": "43, bd de la Grande Ceinture (h.Mohammadi) Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie AlAkhawayn",
+        "address": "lotiss. Badr -ex Vermont, c. com. Badr n°27 Quartier: Californie 20150 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie AlAlia",
+        "address": "83, bd Massira El Khadra -ex Camille Quartier: Maarif 20100 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie AlAmal",
+        "address": "av. Zouhair Med Najjar -ex D, Bloc Kodia 1 n°44 Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie AlAmane",
+        "address": "415, avenue Joulan - ex D, Sidi Othmane Quartier: Sidi Othman 20700 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Abrar",
+        "address": "Hay Hassani, rue 9 n°47 Quartier: Hay Hassani 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Adarissa",
+        "address": "hay El Hanaa III, rue 13 n°2 Quartier: Sidi Othman 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Adl",
+        "address": "cité Sidi Othmane I, bd Allal El Fassi, 80, hay Mohammadi Quartier: Sidi Othman 20700 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Adl Wa Al-Ihsan",
+        "address": "hay Mohammadi, c.com. Assalam imm. A6, n°10 et 11, Sidi Othman Quartier: Sidi Othman 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Afaq",
+        "address": "hay Mohammadi, sect.2, lot.3 imm.12 mag.3 Quartier: Sidi Othman 20650 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Afaq Al-Jadida",
+        "address": "47, bd Brahim Roudani -ex rte Mediouna ang. rue 1 n°12, Lot Salmia Quartier: Sidi Othman 20470 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Afia",
+        "address": "rue des Avocats, Sbata Quartier: Sbata 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Afif",
+        "address": "hay Mohammadi, sect. 2, imm. 2, rdc, lot.2 Quartier: Sidi Othman 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Afrah",
+        "address": "hay Hassani, rue 3 n°66 Quartier: Hay Hassani 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Agadir",
+        "address": "33, rue Mekka Quartier: Ben M'Sik 20450 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Aghzali",
+        "address": "94, bd Brahim Roudani -ex rte Mediouna, Q.i. Mag.1 Quartier: Sidi Othman 20470 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ahad",
+        "address": "lot. ElMassira, lot.64, n°14 imm.3 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ahd",
+        "address": "bd Oued Amlil ang. rue Oulad Ziane, hay Laayoune, Sbata Quartier: Sbata 20450 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ahd Al-Jadid",
+        "address": "cité Sidi Othmane III, rue 6 n°10 Quartier: Sidi Othman 20700 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ahmad",
+        "address": "hay Mohammadi, imm.93, rue 40 n°9 Quartier: Aïn Borja 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ahmar",
+        "address": "31, bd de la Grande Ceinture (h.Mohammadi) Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ahram",
+        "address": "hay Hassani, cité Darna, rue 18 n°18 Quartier: Hay Hassani 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ahyaa",
+        "address": "hay Mohammadi, imm.86, bloc1 mag.4 Quartier: Aïn Borja 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ajial",
+        "address": "28, bd El Majd - ex Andalousie Quartier: Sbata 20450 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ajial Al-Jadida",
+        "address": "hay Hassani, cité L'Amal, imm.28 n°4, rue 13 Quartier: Hay Hassani 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ajial Wa Al-Ahlia",
+        "address": "cit. Sidi Moumen secteur 5 n°14-15 Quartier: Sidi Moumen 20600 CASABLANCA"
+      },  
+      {
+        "name": "Pharmacie Al-Ajnai",
+        "address": "hay Mohammadi, sect. 3, n°68 Quartier: Aïn Borja 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ajyal",
+        "address": "hay Hassani, cité Lina, rue 19 n°24 Quartier: Hay Hassani 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Akdar",
+        "address": "cité Sidi Bernoussi, imm. Imane 1, n°7-8, Sidi Bernoussi Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Akhyar",
+        "address": "rue El Aqsa -ex C, hay El Oulfa, n°10 Quartier: Oulfa 20240 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Akid",
+        "address": "cité Sidi Bernoussi, lot. ElHadika, imm.1 mag.1 Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Akram",
+        "address": "69, bd Abdellah Ben Yacine -ex J, Hay Sidi Moumen Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Aksa",
+        "address": "40, rue Azaitouna, ang. rue 33, Sbata Quartier: Sbata 20450 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Alam",
+        "address": "boulevard 11 janvier, mag. n°17, Aïn Sebaâ Quartier: Aïn Sebaâ 20250 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Alia",
+        "address": "hay Mohammadi, cité Sidi Bernoussi, imm. Sidi Bernoussi, mag.14 Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Alif",
+        "address": "hay Mohammadi, cité Jardins, imm. J n°14, Sidi Othman Quartier: Sidi Othman 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Alwane",
+        "address": "66, bd Abdellah Ben Yacine -ex J, Grpe 3, mag.6, 7, 8 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amal",
+        "address": "cité Sidi Bernoussi, grp.18, imm.1 n°3-4 Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amal Al-Jadida",
+        "address": "cité Sidi Bernoussi, grp.41, imm.2 n°3 Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amal Wa Al-Tawfik",
+        "address": "avenue Ain Chock, Hay Mohammadi, mag.1 Quartier: Aïn Chok 20520 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amal Wa Al-Wafaa",
+        "address": "lot. ElMassira II, imm.85, mag. n°4 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amani",
+        "address": "hay Mohammadi, bloc 14, rue 7 n°13 Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amanouna",
+        "address": "hay Mohammadi, cité Dakhla 2, lot. 89 n°2 Quartier: Hay Hassani 20660 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amane",
+        "address": "61, bd Al Qods (Sbata) Quartier: Sbata 20450 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amane Al-Jadida",
+        "address": "52, rue Ibn Majid -ex Chatel Quartier: Sbata 20450 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amane Wa Al-Ihsan",
+        "address": "hay Mohammadi, imm.14 bloc1 n°23 Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Amane Wa An-Nour",
+        "address": "65, bd de la Grande Ceinture (h.Mohammadi) Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Andalous",
+        "address": "411, avenue du Cdt Driss Lharti - ex A, hay Al Baraka Quartier: Hay Moulay Rachid 20650 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Andaloussia",
+        "address": "126, rue Dom Pérignon Quartier: Derb Ghalef - France Ville 20340 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Antaria",
+        "address": "hay Antaria III, rue 8 n°46 Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Aqsa",
+        "address": "6, rue du Soldat Emile Brunet, résid. Al Amane Quartier: Aïn Borja 20320 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Atfal",
+        "address": "31, lotiss. Moulay Thami, bd HH 24 Quartier: Oulfa 20220 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Azhar",
+        "address": "133, bd Taza, hay Mly Abdellah Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Balsam",
+        "address": "hay Sidi Moumen, rue 10 n°84 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Basmala",
+        "address": "bd Chefchaouni, résid. Atlantique Quartier: Aïn Sebaâ 20250 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Baïda",
+        "address": "496, avenue Makdad Lahrizi, hay Khalid Quartier: Sbata 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Bouchra",
+        "address": "218, bd Ambassadeur Ben Aïcha Quartier: Roches noires 20290 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Bouchra",
+        "address": "hay Massira II, rue 44 n°79 Quartier: Hay Moulay Rachid 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Boustane",
+        "address": "580, bd Ibn Sina - ex Avicenne Quartier: Hay Hassani 20220 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Fadila",
+        "address": "226, avenue Joulan - ex D, Salmia II Quartier: Sbata 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Farabi",
+        "address": "45, bd de Bourgogne Quartier: Racine 20050 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Ghaït",
+        "address": "190, route Oulad Ziane Quartier: Derb El Kabir 20500 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Hadika",
+        "address": "résid. Alhadika (rte de Rabat), imm.2 n° B28 Quartier: Beausite CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Hakim",
+        "address": "hay Hassani, 100 angle rue 64 et 16, lot Sekellia Quartier: Hay Hassani 20220 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Hamd",
+        "address": "hay El Qods, imm.G 3 G - M2 résid. AlBoustane Quartier: Sidi Bernoussi 20600 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Hikam",
+        "address": "206, bd de la Gironde Quartier: Derb El Kabir 20500 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Housna",
+        "address": "hay AlBaraka, rue 13 n°182. Quartier: Sidi Othman 20650 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Idrissi",
+        "address": "lot. Anassi, Ge1 n°7 Quartier: Sidi Moumen 20630 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Imam Ali",
+        "address": "6, bd Chefchaouni Quartier: Aïn Sebaâ 20580 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Imam Malek",
+        "address": "derb Lakrimate I, rue 28 n°64 Quartier: Aïn Chok 20460 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Jawda",
+        "address": "hay Raja I (Bournazel), rue 6 n°1 Quartier: Hay Moulay Rachid 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Karia",
+        "address": "hay Sidi Moumen Jdid, grp.2 rue 8 n°56 Quartier: Sidi Moumen 20400 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Kawkab",
+        "address": "Rte d'Eljadida km 13,5 Douar Ouled Ahmed, Sidi Maârouf Quartier: Sidi Maarouf 091416 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Kindi",
+        "address": "48, qu. les Crêtes, rue 1 lotiss. Hafdia Quartier: Aïn Chok 20460 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Korama",
+        "address": "rue Essaka El Hadidia -ex Margaux ang. rue de Carbone, résid. Andalous IV Quartier: Derb El Kabir 20500 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Manar",
+        "address": "lot. Jouhara, rue 5 n°90 Quartier: Sidi Moumen 20630 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Manfaloti",
+        "address": "cité O.n.c.f., rue Tahrir bloc 3 n° 30 Quartier: Hay Mohammadi 20560 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Mania",
+        "address": "hay Sadri (Bournazel), kiss. Lkheirya Quartier: Hay Moulay Rachid 20650 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Massira",
+        "address": "51, rue Rahal Ben Ahmed - ex Dinant Quartier: Roches noires 20300 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Maârouf",
+        "address": "quartier Lissasfa (route d'El Jadida), Douar Bouchaïb El Watani Quartier: Oulfa 20532 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Mehdia",
+        "address": "Hay Inara I, lotiss. Mehdia, rue 10 n°89 bis Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Miza",
+        "address": "quartier Lissasfa (route d'El Jadida), lotiss. Alkhalil, imm. A3 Quartier: Oulfa 20230 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Motahida",
+        "address": "hay El Oulfa, lot. Sidi Abderrhman rue 36 n°31 Quartier: Oulfa 20240 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Mouwaten",
+        "address": "192, hay Nassim Quartier: Oulfa 20190 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Oroba",
+        "address": "avenue du Deux Mars, lot. Rajaa Saïda rue 14 n°15 Quartier: Aïn Chok 20500 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Osra",
+        "address": "52, bd Amgala - ex A Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Oukhoua",
+        "address": "88, lotis. Rakia Ct, rte 1100 , lot G- Sidi Maârouf Quartier: Sidi Maarouf 20280 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Qods",
+        "address": "158, bd de la Grande Ceinture (h.Mohammadi) Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Wikaya",
+        "address": "561, bd du Nil, hay Mabrouka Quartier: Sidi Othman 20700 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Wissal",
+        "address": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II bloc 2 n°18 Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Al-Wouroud",
+        "address": "67, rue Wouroude-ex Roses Quartier: Beauséjour 20200 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alabe",
+        "address": "48, lotiss. Salama , rte de Makro Sidi Maârouf Quartier: Sidi Maarouf 20270 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alahram",
+        "address": "106, avenue Makdad Lahrizi hay AlHouda Quartier: Sbata 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alamana",
+        "address": "13, rue Ennarjiss - ex Sarcelles, hay Erraha Quartier: Beauséjour 20200 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Albadr",
+        "address": "262, lotiss. Hadioui , Sidi Maârouf Quartier: Sidi Maarouf 20280 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Albaraka",
+        "address": "253, avenue du Cdt Driss Lharti - ex A, hay AlBaraka Quartier: Hay Moulay Rachid 20650 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Albert Premier",
+        "address": "8, rue de Craonne Quartier: Belvédère 20310 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alboudour",
+        "address": "115, rue de Sebta Quartier: Hôpitaux 20360 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alexandrie",
+        "address": "35, bd d' Alexandrie Quartier: Ermitage - Hôpitaux 20360 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alfalah",
+        "address": "105, avenue Akid Allam, hay Alfalah Quartier: Hay Moulay Rachid 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alfath",
+        "address": "94, bd El Kanadissa -ex Pylones, Bine Lemdoune Quartier: Aïn Chok 20470 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alhambra",
+        "address": "1 Bis, rue Omar El Idrissi Quartier: Mers Sultan 20490 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alhikma",
+        "address": "8, rue Abou Al Alaa Zahar -ex Vésale Quartier: Hôpitaux 20360 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Ali",
+        "address": "rte 1029 , Km 4,6 Ouled Haddou Sidi Maârouf Quartier: Sidi Maarouf 20280 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alihsan",
+        "address": "hay Salama I, grp.5 rue 12 n°123 Quartier: Sidi Othman 20670 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alinara",
+        "address": "921, avenue du Deux Mars Quartier: Aïn Chok 20470 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alirchad",
+        "address": "hay Yasmina, rue 51 n°34 Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alj",
+        "address": "279, bd Abdelmoumen Quartier: Ermitage - Hôpitaux 20360 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alkhansa",
+        "address": "218, avenue Mers Sultan Quartier: Centre Ville 20140 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alkhayam",
+        "address": "24, bd Smara Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alkhayria",
+        "address": "avenue El Maati Ben Ziad H.Sadri, imm.A n°1 Quartier: Sidi Othman 20650 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alkhozama",
+        "address": "bd Oqba Bnou Nafiaa, hay Antaria 1 Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Almaha",
+        "address": "4, bd Panoramique ang. bd Mohamed VI Quartier: Aïn Chok 20150 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alouard",
+        "address": "55, bd Oued Sebou Quartier: Oulfa 20220 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Aloum",
+        "address": "bd Anoual -ex Felix Faure Quartier: Derb Ghalef - France Ville 20390 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alqodouss",
+        "address": "quartier Lissasfa (route d'El Jadida), lotiss. Youssra lot. 115 Quartier: Oulfa 20190 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alwahda",
+        "address": "avenue Docteur Moulasim Bouafi, hay Jamila II (Cité Djemaa) Quartier: Ben M'Sik 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alwarda",
+        "address": "Derb Warda (H. Hassani), rue 1 bloc 1 n°19/21 Quartier: Hay Hassani 20220 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Alwiam",
+        "address": "hay Jamila II (cité Djemaa) rue 19, n°15/17 Quartier: Sbata 20452 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Aman",
+        "address": "hay El Osra II, Lot. Khadija rue 17 n°10 Quartier: Aïn Chok 20480 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Amina",
+        "address": "180, avenue C, hay Takadoum Quartier: Hay Mohammadi 20570 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Amine",
+        "address": "rte de Bouskoura, Lotiss. Amine n°65 , Sidi Maârouf Quartier: Sidi Maarouf 20280 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie An-nia",
+        "address": "lotiss. Assafa, imm. 18 n° 4 A hay El Oulfa Quartier: Oulfa 20240 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Anafé",
+        "address": "37, rue Félix et Max Guedj Quartier: Lusitania 20070 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Anassi",
+        "address": "lot. Anassi, Grp. 7, Ahl Loghlam, n°1, Rdc Quartier: Sidi Moumen 20630 CASABLANCA"
+      },
+      {
+        "name": "Pharmacie Andalous",
+        "address": "394, bd Panoramique ang. av. 2 Mars Quartier: Aïn Chok 20470 CASABLANCA"
+      }
+  
+    ],
+
+  "Agadir": [
+    {
+      "name": "Grande Pharmacie d'Agadir",
+      "address": "av. Mly Abdallah, imm. M1 80000 AGADIR"
+    },
+    {
+      "name": "L'Essentiel de la Para Pharmacie",
+      "address": "cité Al Qods, Proprièté Addakhla, A 508 AGADIR"
+    },
+    {
+      "name": "La Génération de Pharmacie et de Chimie (Gephac)",
+      "address": "10, rue d'Ifni, Talborjt AGADIR"
+    },
+    {
+      "name": "Pharmacie 20 Aout",
+      "address": "180, av. Imam ElBoukhari, Erac Bouargane AGADIR"
+    },
+    {
+      "name": "Pharmacie 2000",
+      "address": "av. My Abdellah, résid. Karam AGADIR"
+    },
+    {
+      "name": "Pharmacie Abousaïd",
+      "address": "22, av Abderrahim Bouabid, imm. Zerktouni bloc F AGADIR"
+    },
+    {
+      "name": "Pharmacie Adlouni",
+      "address": "cité ElHouda, bloc K n°370 AGADIR"
+    },
+    {
+      "name": "Pharmacie Adoha",
+      "address": "hay Mohammadi, cplxe Adoha AGADIR"
+    },
+    {
+      "name": "Pharmacie Adouz",
+      "address": "complexe Azrou, n°18/17 trance 1 imm.Bicha AGADIR"
+    },
+    {
+      "name": "Pharmacie Agadir Oufella",
+      "address": "6, av. Mohammed V, imm. Sabri Rte du Port AGADIR"
+    },
+    {
+      "name": "Pharmacie Agdal",
+      "address": "Quartier Tilila, rue Ghaza, imm. Agdal, n°47 AGADIR"
+    },
+    {
+      "name": "Pharmacie Agharass",
+      "address": "95, av. Allal ElFassi, Bouargane AGADIR"
+    },
+    {
+      "name": "Pharmacie Aghroud Bensergao",
+      "address": "hay Jaanouj Aghroud, bloc C AGADIR"
+    },
+    {
+      "name": "Pharmacie Ait Souss",
+      "address": "Hay Mohammadi, n°2934 AGADIR"
+    },
+    {
+      "name": "Pharmacie Aiyar",
+      "address": "Hay Al Mohammadi, imm. A1B16 Assafa AGADIR"
+    },
+    {
+      "name": "Pharmacie Al Andalous",
+      "address": "2, av Al Mouquaouama, imm. Asma AGADIR"
+    },
+    {
+      "name": "Pharmacie Al Imam AlKastalani",
+      "address": "av Abdellah Ibn Yassine bloc 13 n° 17, bloc 13 n° 17 cité Sidi Mohamed AGADIR"
+    },
+    {
+      "name": "Pharmacie Al Wiam",
+      "address": "hay Zgoumi Tamraght, Aourir AGADIR"
+    },
+    {
+      "name": "Pharmacie AlBaraka",
+      "address": "Tamraght - Aourir AGADIR"
+    },
+    {
+      "name": "Pharmacie AlBouchra",
+      "address": "lot. Tillila parcelle 1340 AGADIR"
+    },
+    {
+      "name": "Pharmacie AlHamra",
+      "address": "3, av. AlHamra, Amsernat 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie AlHanaa",
+      "address": "114 Bis, av. Hadj Lahbib, les Amicales 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie AlHanane",
+      "address": "bd des Far AGADIR"
+    },
+    {
+      "name": "Pharmacie AlManar",
+      "address": "cité Salam, rue 952 n°16 AGADIR"
+    },
+    {
+      "name": "Pharmacie AlMansour Eddahbi",
+      "address": "61, av Ahmed AlMansour Eddahbi, cité Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie AlManzah",
+      "address": "bd Cheikh Saadi ang. av des Far AGADIR"
+    },
+    {
+      "name": "Pharmacie AlMasjid",
+      "address": "centre Aourir AGADIR"
+    },
+    {
+      "name": "Pharmacie AlMassira",
+      "address": "57, avenue Jamal Abdennacer, hay Almassira AGADIR"
+    },
+    {
+      "name": "Pharmacie AlMouna",
+      "address": "av Abderrahim Bouabid 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie AlMoustawsaf",
+      "address": "cité Maalm Ali, bloc B Bensergao AGADIR"
+    },
+    {
+      "name": "Pharmacie Alamal",
+      "address": "Av. Cheikh Saadi, imm. Tighmirt 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Alikhlass",
+      "address": "24 Bis, bd Abdellah Ben Hssaïne, Cité Essalam 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Amsernat",
+      "address": "bd 2 Mars, quartier Amsernat 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Anbary",
+      "address": "avenue Hassan II, imm. Hasna 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Anezi",
+      "address": "10, bd. Mohamed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Annasr",
+      "address": "102, bd. Med Ouazzani, Khiam II 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Anza",
+      "address": "4, Bloc C, Quartier Anza AGADIR"
+    },
+    {
+      "name": "Pharmacie Aourir",
+      "address": "route d'Imouzar, Aourir AGADIR"
+    },
+    {
+      "name": "Pharmacie Argane",
+      "address": "39, rue Ibn Attia, Erac Bouargane 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Assafa",
+      "address": "cité AlHouda, bloc H n°299 AGADIR"
+    },
+    {
+      "name": "Pharmacie Assafar",
+      "address": "cité AlHouda, bloc G n°1 lot.70 AGADIR"
+    },
+    {
+      "name": "Pharmacie Aswak Assalam",
+      "address": "Cité Dakhla, Aswak Assalam AGADIR"
+    },
+    {
+      "name": "Pharmacie Atiqi",
+      "address": "23, rue Adrar, imm.Saada, Erac Bouargane AGADIR"
+    },
+    {
+      "name": "Pharmacie Attawhid",
+      "address": "348 Bis, cité ElHouda, sect. E AGADIR"
+    },
+    {
+      "name": "Pharmacie Ayour",
+      "address": "Lot.61, secteur A, AlHouda AGADIR"
+    },
+    {
+      "name": "Pharmacie Azizi",
+      "address": "3, av. Ahmed ElMansour Eddahbi, cité Dakhla 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Azmi",
+      "address": "Q. Riad Salam, rue Omar Ben Jelloun 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Bab Almadina",
+      "address": "Tilila, z.i. lotiss. S1, Bab Al Madina AGADIR"
+    },
+    {
+      "name": "Pharmacie Bachouch",
+      "address": "445, Extention Dakhla 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Bayti",
+      "address": "Hay Mohammadi, résid. Bayti M1 B18 AGADIR"
+    },
+    {
+      "name": "Pharmacie Ben Rahal El batoire",
+      "address": "rue Fès bloc 6 les Abattoires AGADIR"
+    },
+    {
+      "name": "Pharmacie Borj Taddart",
+      "address": "av. des far, imm. Tigmi AGADIR"
+    },
+    {
+      "name": "Pharmacie Bouargane",
+      "address": "831, Lakhiam II 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Bouloiz",
+      "address": "lot. Alimam Fatima, n°40 Drarga rte Principale AGADIR"
+    },
+    {
+      "name": "Pharmacie Boussaïd",
+      "address": "Cité Farha, bloc 14 n°1 AGADIR"
+    },
+    {
+      "name": "Pharmacie Cadi Ayad",
+      "address": "124, av. Cadi Ayad, q.i. AGADIR"
+    },
+    {
+      "name": "Pharmacie Cadi Ben Driss",
+      "address": "AL Fiddia I, Cité Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Centrale",
+      "address": "101, Av. Al Mouqaouama 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Centre",
+      "address": "centre Ait Mira, imm. Khiroune AGADIR"
+    },
+    {
+      "name": "Pharmacie Chaab",
+      "address": "rue président Bekkay, q.i. 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Charaf",
+      "address": "8, Marché Charaf, cité Charaf 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Chellaoui",
+      "address": "Place des Taxis, q.i. 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Chifa",
+      "address": "94, av. Hassan I, cité Dakhla 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Cité Suisse",
+      "address": "1, rue Mokhtar Soussi 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Cokail",
+      "address": "rue Talouzine, lot. Bir Anzarane n°206/C Tikiouine AGADIR"
+    },
+    {
+      "name": "Pharmacie Conseil",
+      "address": "33 Bis, avenue Imame Al Boukhari Erac Bouargane AGADIR"
+    },
+    {
+      "name": "Pharmacie Dahabia",
+      "address": "535, sect K, ElHouda AGADIR"
+    },
+    {
+      "name": "Pharmacie Dakhla",
+      "address": "14, rue Al Farabi, cité Dakhla 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Drarga",
+      "address": "rte principale Drarga, Sidi Elhaj Saïd AGADIR"
+    },
+    {
+      "name": "Pharmacie El Alami",
+      "address": "Riad Salam, imm. Aferni n°22 AGADIR"
+    },
+    {
+      "name": "Pharmacie El Amri",
+      "address": "1, rue Anezi cité Salam AGADIR"
+    },
+    {
+      "name": "Pharmacie El Ouazzany",
+      "address": "Hay Mohammadi, résid. Fal Oumlil n°206 AGADIR"
+    },
+    {
+      "name": "Pharmacie El Wafa",
+      "address": "25 Bis, bd Abderrahim Bouaabid, cité ElWafa AGADIR"
+    },
+    {
+      "name": "Pharmacie ElBahara",
+      "address": "lot. Marins Pécheurs, rue 502 bis n°22 AGADIR"
+    },
+    {
+      "name": "Pharmacie ElFath",
+      "address": "49, bd Farhat Hachad, cité Dakhla 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie ElHassania",
+      "address": "56, Bloc B, Lot. ElHassania AGADIR"
+    },
+    {
+      "name": "Pharmacie ElHjouji",
+      "address": "129 Bis, rue Idrissi, Nouveau Talborjt AGADIR"
+    },
+    {
+      "name": "Pharmacie ElMghari",
+      "address": "5, av Mly Hassan I imm. AlWifaq, cité Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie ElMoustawsaf",
+      "address": "centre cial Al Amlal AGADIR"
+    },
+    {
+      "name": "Pharmacie ElMoustawaqaf",
+      "address": "complexe Al Moustawaqaf AGADIR"
+    },
+    {
+      "name": "Pharmacie Ennour",
+      "address": "av. Abderrahim Bouabid AGADIR"
+    },
+    {
+      "name": "Pharmacie Essafwa",
+      "address": "Hay Almassira, rue 42, N°2, Ait Melloul AGADIR"
+    },
+    {
+      "name": "Pharmacie Essalam",
+      "address": "cité ElHouda, imm. A22 Bensergao AGADIR"
+    },
+    {
+      "name": "Pharmacie Essaouira",
+      "address": "13, rue Cadi Ayad, cité Essaouira AGADIR"
+    },
+    {
+      "name": "Pharmacie Etihad",
+      "address": "cit El Moustwaqaf AGADIR"
+    },
+    {
+      "name": "Pharmacie Fal Ahmar",
+      "address": "Centre cial AlWifaq AGADIR"
+    },
+    {
+      "name": "Pharmacie Fal Ouamril",
+      "address": "cité Fal Oumairl, av AlMajd AGADIR"
+    },
+    {
+      "name": "Pharmacie Faska",
+      "address": "11, av. Mly Hassan I, hay Salam AGADIR"
+    },
+    {
+      "name": "Pharmacie Faska Tamraght",
+      "address": "Tamraght AGADIR"
+    },
+    {
+      "name": "Pharmacie Firdaous",
+      "address": "Quartier Taddart, rue Ighrem II 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Freija",
+      "address": "cité ElHouda, bloc H n°390 AGADIR"
+    },
+    {
+      "name": "Pharmacie Ghandi",
+      "address": "18, rue 13 Résid. Ghandi AGADIR"
+    },
+    {
+      "name": "Pharmacie Ghandi Extension",
+      "address": "Hay Elmassira, bloc A, rue 23 n°9 AGADIR"
+    },
+    {
+      "name": "Pharmacie Ghandouri",
+      "address": "cité Ghandouri, bd. Mohammed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Ghenmous",
+      "address": "41, rue 3, Hay AlMohammadi AGADIR"
+    },
+    {
+      "name": "Pharmacie Ghenmous Amsernat",
+      "address": "centre commercial Amsernat AGADIR"
+    },
+    {
+      "name": "Pharmacie Ghoul",
+      "address" :"5, rue Youssef Ben Tachfine, Agadir"
+    },
+    {
+      "name": "Pharmacie Goulmima",
+      "address": "rue 28 n°02 cité Taddart AGADIR"
+    },
+    {
+      "name": "Pharmacie Guerguer",
+      "address": "cité AlHouda, bloc E n°181 AGADIR"
+    },
+    {
+      "name": "Pharmacie Hachad",
+      "address": "Lotissement Bouskoura 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Hadouir",
+      "address": "cité ElHouda, bloc E n°199 AGADIR"
+    },
+    {
+      "name": "Pharmacie Hajou",
+      "address": "av. Ghoumara, im. 10 hay Almassira AGADIR"
+    },
+    {
+      "name": "Pharmacie Hamid",
+      "address": "cit. Essalam, bd. Hassana II AGADIR"
+    },
+    {
+      "name": "Pharmacie Hay Aswak Salam",
+      "address": "Q.I. Hay Salam, rue 7, n°3 AGADIR"
+    },
+    {
+      "name": "Pharmacie Hay Elmassira",
+      "address": "av. Youssef Ben Tachfine 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Hay Houda",
+      "address": "cit. ElHouda, bloc E n°48 AGADIR"
+    },
+    {
+      "name": "Pharmacie Houda",
+      "address": "cit. ElHouda, av. Mohammed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Ibny",
+      "address": "lot. Yacoub ElMansour, rue 43 n°32 AGADIR"
+    },
+    {
+      "name": "Pharmacie Iguider",
+      "address": "20, av. Hassan I AGADIR"
+    },
+    {
+      "name": "Pharmacie Imassine",
+      "address": "rue 17, av AlMoukaouama 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Imilchil",
+      "address": "cit. Imilchil, rue 19 n°10 AGADIR"
+    },
+    {
+      "name": "Pharmacie Imin Targa",
+      "address": "rue 13, av. Abderrahim Bouabid AGADIR"
+    },
+    {
+      "name": "Pharmacie Imloul",
+      "address": "3, bd. Mohammed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Inara",
+      "address": "Hay Elmassira, rue 31 n°6 AGADIR"
+    },
+    {
+      "name": "Pharmacie Inara Tamraght",
+      "address": "Tamraght AGADIR"
+    },
+    {
+      "name": "Pharmacie Irsoud",
+      "address": "Hay Mohammadi, sect. 1, rue 34, n°19 AGADIR"
+    },
+    {
+      "name": "Pharmacie Itihad",
+      "address": "4, bd. Abdellah Ben Hssaine AGADIR"
+    },
+    {
+      "name": "Pharmacie Jaouahir",
+      "address": "cité Jaouahir, imm. J6 n°20 AGADIR"
+    },
+    {
+      "name": "Pharmacie Jaouhara",
+      "address": "hay Mohammadi, résid. Jaouhara, n°15 AGADIR"
+    },
+    {
+      "name": "Pharmacie Jardin de la Pharmacie",
+      "address": "rue ElFida ex-rue Charles Nicolle, hay Salam AGADIR"
+    },
+    {
+      "name": "Pharmacie Jelloul",
+      "address": "5, bd. Farhat Hachad AGADIR"
+    },
+    {
+      "name": "Pharmacie Jnah",
+      "address": "lot. Assafa, rue 2 n°64 AGADIR"
+    },
+    {
+      "name": "Pharmacie Jnah Tamraght",
+      "address": "Tamraght AGADIR"
+    },
+    {
+      "name": "Pharmacie Jnane Souss",
+      "address": "lot. Assafa, rue 1 n°118 AGADIR"
+    },
+    {
+      "name": "Pharmacie Jnane Tamraght",
+      "address": "Tamraght AGADIR"
+    },
+    {
+      "name": "Pharmacie Karam",
+      "address": "2, rue ElHafiz Soufiane, cité Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Karima",
+      "address": "av. Lalla Meryem, bd. Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Kassmi",
+      "address": "12, bd. Hassan II, hay Elmassira AGADIR"
+    },
+    {
+      "name": "Pharmacie Kerdoun",
+      "address": "Cité Founty, Agadir"
+    },
+    {
+      "name": "Pharmacie Khadija",
+      "address": "83, av. Mohamed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Khamsa",
+      "address": "cité Aourir, hay Inara AGADIR"
+    },
+    {
+      "name": "Pharmacie Khalifa",
+      "address": "lot. ElMassira, rue 22 n°5 AGADIR"
+    },
+    {
+      "name": "Pharmacie Khalti",
+      "address": "cité ElHouda, sect. F AGADIR"
+    },
+    {
+      "name": "Pharmacie Khozama",
+      "address": "centre Aourir AGADIR"
+    },
+    {
+      "name": "Pharmacie Koudia",
+      "address": "44, bd. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie La Plage",
+      "address": "Hay Mohammadi, av. Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Lahcen",
+      "address": "1, rue des Mosquees, Hay Mohammadi AGADIR"
+    },
+    {
+      "name": "Pharmacie Lamiri",
+      "address": "8, bd. Farhat Hachad AGADIR"
+    },
+    {
+      "name": "Pharmacie Lamsat Almaghrib",
+      "address": "cité ElHouda, bloc C n°48 AGADIR"
+    },
+    {
+      "name": "Pharmacie Le Marché",
+      "address": "quartier Le Marché, rue 10 n°41 AGADIR"
+    },
+    {
+      "name": "Pharmacie Les Orangers",
+      "address": "hay Mohammadi, rue 25, n°11 AGADIR"
+    },
+    {
+      "name": "Pharmacie Lhadnous",
+      "address": "rue 1, secteur B AGADIR"
+    },
+    {
+      "name": "Pharmacie Liaby",
+      "address": "2, av. Abderrahim Bouabid AGADIR"
+    },
+    {
+      "name": "Pharmacie Lissane",
+      "address": "22, bd. Farhat Hachad AGADIR"
+    },
+    {
+      "name": "Pharmacie Louban",
+      "address": "rue 3, av. 20 Août AGADIR"
+    },
+    {
+      "name": "Pharmacie Loutfia",
+      "address": "5, bd. Mohamed V AGADIR"
+    },
+    {
+      "name": "Pharmacie M'barkia",
+      "address": "quartier les Amicales, av. Atrar AGADIR"
+    },
+    {
+      "name": "Pharmacie M'hamdia",
+      "address": "av. Prince Héritier 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie M'jid",
+      "address": "lot. Afak, sect. 7, lot.15 AGADIR"
+    },
+    {
+      "name": "Pharmacie Maghreb",
+      "address": "2, rue Oum El Kora, agadir"
+    },
+    {
+      "name": "Pharmacie Maghraoui",
+      "address": "cité Sidi Mohamed, av. Imam AlGhazali AGADIR"
+    },
+    {
+      "name": "Pharmacie Mahbouba",
+      "address": "15, av. Prince Héritier AGADIR"
+    },
+    {
+      "name": "Pharmacie Mahfoud",
+      "address": "15, bd. 2 Mars AGADIR"
+    },
+    {
+      "name": "Pharmacie Majd",
+      "address": "cité des Fonctionnaires, rue ElFaqih Tayeb AGADIR"
+    },
+    {
+      "name": "Pharmacie Majid",
+      "address": "centre Dakhla, av. Ibn Khatib AGADIR"
+    },
+    {
+      "name": "Pharmacie Majid Oulad Tayeb",
+      "address": "Nouveau Talborjt, lot. 83/15 AGADIR"
+    },
+    {
+      "name": "Pharmacie Makane",
+      "address": "22, bd. Farhat Hachad AGADIR"
+    },
+    {
+      "name": "Pharmacie Malaki",
+      "address": "quartier El Massira, rue 19, n°3 AGADIR"
+    },
+    {
+      "name": "Pharmacie Maldives",
+      "address": "hay Mohammadi, rue 29 n°20 AGADIR"
+    },
+    {
+      "name": "Pharmacie Malmoune",
+      "address": "centre Souk Taddart AGADIR"
+    },
+    {
+      "name": "Pharmacie Manar",
+      "address": "39, bd. Mohammed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Mansour",
+      "address": "10, av. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Marhfour",
+      "address": "cité ElMoustwaqaf, bloc A n°30 AGADIR"
+    },
+    {
+      "name": "Pharmacie Marjane",
+      "address": "quartier Taddart, rue 34 n°20 AGADIR"
+    },
+    {
+      "name": "Pharmacie Marjane El Massira",
+      "address": "quartier El Massira, rue 20 n°23 AGADIR"
+    },
+    {
+      "name": "Pharmacie Marjane Extension",
+      "address": "quartier extension de Marjane AGADIR"
+    },
+    {
+      "name": "Pharmacie Marocaine",
+      "address": "rue Tantaout, Hay Elmassira AGADIR"
+    },
+    {
+      "name": "Pharmacie Masarif",
+      "address": "cité Maalm Ali, rue 13 n°42 AGADIR"
+    },
+    {
+      "name": "Pharmacie Mashreq",
+      "address": "av. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Massira",
+      "address": "hay Almassira, bd. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Matoc",
+      "address": "cité ElHouda, bloc B n°1 AGADIR"
+    },
+    {
+      "name": "Pharmacie Mawlid",
+      "address": "rue 11, cité Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Mawloud",
+      "address": "11, rue Fès, AGADIR"
+    },
+    {
+      "name": "Pharmacie Maysour",
+      "address": "lot. Hay ElHouda, rue 1 AGADIR"
+    },
+    {
+      "name": "Pharmacie Maysour Tamraght",
+      "address": "Tamraght AGADIR"
+    },
+    {
+      "name": "Pharmacie Mazlout",
+      "address": "2, av. Al Moukaouama AGADIR"
+    },
+    {
+      "name": "Pharmacie Mellouki",
+      "address": "Quartier Talborjt, rue Allal Ben Abdellah 80000 AGADIR"
+    },
+    {
+      "name": "Pharmacie Mimosas",
+      "address": "2, rue Mimosas, av. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Modern",
+      "address": "bd. Mohammed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Mohamed",
+      "address": "bd. Mohammed V, av. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Mokhtar Soussi",
+      "address": "rue Moulay Abdelkader AGADIR"
+    },
+    {
+      "name": "Pharmacie Moni",
+      "address": "Quartier les Amicales AGADIR"
+    },
+    {
+      "name": "Pharmacie Moni Extension",
+      "address": "quartier les Amicales, rue 2 AGADIR"
+    },
+    {
+      "name": "Pharmacie Mounia",
+      "address": "hay Mohammadi, rue 26 n°17 AGADIR"
+    },
+    {
+      "name": "Pharmacie Mounia El Massira",
+      "address": "hay Elmassira, rue 36 n°18 AGADIR"
+    },
+    {
+      "name": "Pharmacie Mouradi",
+      "address": "cité de l'Air, av. Mohammed V AGADIR"
+    },
+    {
+      "name": "Pharmacie Moussaoui",
+      "address": "12, bd. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Moustakbal",
+      "address": "hay Massira, av. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Moustaoui",
+      "address": "cité ElWahda, bd. AlMoukaouama AGADIR"
+    },
+    {
+      "name": "Pharmacie Naceri",
+      "address": "Quartier Dakhla, AGADIR"
+    },
+    {
+      "name": "Pharmacie Najah",
+      "address": "cit. Najah, lot. 2 n°6 AGADIR"
+    },
+    {
+      "name": "Pharmacie Najia",
+      "address": "hay Almassira, rue 23, n°6 AGADIR"
+    },
+    {
+      "name": "Pharmacie Najlaa",
+      "address": "4, bd. Mly Hassan I AGADIR"
+    },
+    {
+      "name": "Pharmacie Najmat Al Firdaws",
+      "address": "Riad Salam, agadir"
+    },
+    {
+      "name": "Pharmacie Najmat Essalam",
+      "address": "quartier El Massira, rue 13 n°3 AGADIR"
+    },
+    {
+      "name": "Pharmacie Najwa",
+      "address": "cit. Najwa, lot. 8 n°20 AGADIR"
+    },
+    {
+      "name": "Pharmacie Nassim",
+      "address": "12, rue 17 AGADIR"
+    },
+    {
+      "name": "Pharmacie Nassim 2000",
+      "address": "hay Salam AGADIR"
+    },
+    {
+      "name": "Pharmacie Nassim Massira",
+      "address": "hay Massira, av. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Nassim Sidi Bouchaïb",
+      "address": "centre Souk Sidi Bouchaïb AGADIR"
+    },
+    {
+      "name": "Pharmacie Naya",
+      "address": "5, rue Aïn Aouda AGADIR"
+    },
+    {
+      "name": "Pharmacie Nid D'hirondelle",
+      "address": "Imm 24 et 25, N.2, AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouhaila",
+      "address": "cité ElHouda, bloc E n°245 AGADIR"
+    },
+    {
+      "name": "Pharmacie Noujoum",
+      "address": "hay Almassira, av. Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouveau Souss",
+      "address": "hay Almassira, rue 25, n°4 AGADIR"
+    },
+    {
+      "name": "Pharmacie Nour",
+      "address": "2, av. Sidi Mohammed Ben Abdellah AGADIR"
+    },
+    {
+      "name": "Pharmacie Nour El Hadaf",
+      "address": "place 20 Août AGADIR"
+    },
+    {
+      "name": "Pharmacie Nour El Imane",
+      "address": "18, rue Oum El Kora, Hay Salam AGADIR"
+    },
+    {
+      "name": "Pharmacie Nour Tamraght",
+      "address": "Tamraght AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouveau Talborjt",
+      "address": "Nouveau Talborjt AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouvelle",
+      "address": "hay Massira, rue 14 n°23 AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouvelle Agadir",
+      "address": "hay Massira, rue 34 n°23 AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouvelle Dakhla",
+      "address": "cité Dakhla, bd. Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouvelle Hay Mohammadi",
+      "address": "hay Mohammadi AGADIR"
+    },
+    {
+      "name": "Pharmacie Nouvelle Extension",
+      "address": "quartier extension, rue 9 AGADIR"
+    },
+    {
+      "name": "Pharmacie Nourreddine",
+      "address": "Centre cial Al Wifak AGADIR"
+    },
+    {
+      "name": "Pharmacie Océan",
+      "address": "rue 1, cité AlHouda AGADIR"
+    },
+    {
+      "name": "Pharmacie Océane",
+      "address": "rue 1, cité AlHouda AGADIR"
+    },
+    {
+      "name": "Pharmacie Oqba",
+      "address": "cité Oqba, av. Imane AGADIR"
+    },
+    {
+      "name": "Pharmacie Ouchrif",
+      "address": "avenue Prince Moulay Rachid, immeuble AlAmane, AGADIR"
+    },
+    {
+      "name": "Pharmacie Oumnia",
+      "address": "Hay Salam AGADIR"
+    },
+    {
+      "name": "Pharmacie Oumnia El Massira",
+      "address": "hay Elmassira, rue 39 n°5 AGADIR"
+    },
+    {
+      "name": "Pharmacie Oussama",
+      "address": "cit. Ghandouri, rue 4 AGADIR"
+    },
+    {
+      "name": "Pharmacie Oussou",
+      "address": "Cité Etat 5 AGADIR"
+    },
+    {
+      "name": "Pharmacie Oussoud",
+      "address": "Hay Mohammadi, avenue Dakhla AGADIR"
+    },
+    {
+      "name": "Pharmacie Oxygène",
+      "address": "2, rue Mokhtar Soussi AGADIR"
+    },
+    {
+      "name": "Pharmacie Oyama",
+      "address": "hay Almassira, bd. Hassan II AGADIR"
+    },
+    {
+      "name": "Pharmacie Paradise",
+      "address": "rue de la démocratie, cité Salam AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie El Massira",
+      "address": "Hay Elmassira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Marocaine",
+      "address": "Hay Mohammadi AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine",
+      "address": "place 20 août AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss Extension",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 1",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 2",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 3",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 4",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 5",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 6",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 7",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 8",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 9",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 10",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 11",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 12",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 13",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 14",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 15",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 16",
+      "address": "quartier Hay El Massira AGADIR"
+    },
+    {
+      "name": "Pharmacie Parfumerie Yasmine Souss 17",
+      "address": "quartier Hay El Massira AGADIR"
+    }
+]
+
+  }
+  
