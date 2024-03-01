@@ -1,43 +1,25 @@
-'use client '
-// components/MapComponent.js
+import { useState, useEffect } from 'react';
 
-import React, { useState, useEffect } from 'react';
-import { Loader } from "@googlemaps/js-api-loader";
-
-const MapComponent = ({ pharmacies }) => {
-  const [map, setMap] = useState(null);
+const MapComponent = ({ pharmacies, userCoords }) => {
+  const [mapInitialized, setMapInitialized] = useState(false);
 
   useEffect(() => {
-    const loader = new Loader({
-      apiKey: "AIzaSyAssKRtf0Bm09maIeOiUbV5rTKHYLBzAS8"
-      
-    });
-
-    loader.load().then(() => {
-      const google = window.google;
-      const map = new google.maps.Map(document.getElementById("map"), {
-        center: { lat: 0, lng: 0 },
-        zoom: 8,
-      });
-      setMap(map);
-    });
-  }, []);
-
-  useEffect(() => {
-    if (map) {
-      pharmacies.forEach((pharmacy, index) => {
-        new window.google.maps.Marker({
-          position: { lat: pharmacy.latitude, lng: pharmacy.longitude },
-          map: map,
-          title: pharmacy.name,
-        });
+    if (typeof window !== 'undefined' && !mapInitialized && userCoords) {
+      import('leaflet').then(L => {
+        // Initialize map
+        const mapInstance = L.map('map').setView([userCoords.latitude, userCoords.longitude], 13);
+        
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(mapInstance);
+        
+        setMapInitialized(true);
+      }).catch(error => {
+        console.error('Error loading Leaflet:', error);
       });
     }
-  }, [map, pharmacies]);
+  }, [mapInitialized, userCoords]);
 
-  return (
-    <div id="map" style={{ width: '100%', height: '400px' }}></div>
-  );
+  return <div id="map" style={{ height: '400px' }}></div>;
 };
 
 export default MapComponent;
