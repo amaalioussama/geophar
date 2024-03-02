@@ -1,16 +1,12 @@
 "use client"
+// UserLocationMap.js
 import React, { useEffect } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
-import icon from "leaflet/dist/images/marker-icon.png";
-import iconShadow from "leaflet/dist/images/marker-shadow.png";
+import { renderToString } from "react-dom/server";
+import MyLocationIcon from '@mui/icons-material/MyLocation';
 
-let DefaultIcon = L.icon({
-  iconUrl: icon,
-  shadowUrl: iconShadow,
-});
-
-const UserLocationMap = ({ userLocation }) => {
+const UserLocationMap = ({ userLocation, markers }) => {
   useEffect(() => {
     if (!userLocation) return;
 
@@ -19,7 +15,8 @@ const UserLocationMap = ({ userLocation }) => {
     if (container != null) {
       container._leaflet_id = null;
     }
-    var map = L.map("map").setView(userLocation, 13); 
+    var map = L.map("map").setView(userLocation, 13);
+
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution:
         'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
@@ -30,12 +27,24 @@ const UserLocationMap = ({ userLocation }) => {
       accessToken:
         "pk.eyJ1IjoidGFyLWhlbCIsImEiOiJjbDJnYWRieGMwMTlrM2luenIzMzZwbGJ2In0.RQRMAJqClc4qoNwROT8Umg",
     }).addTo(map);
-    L.Marker.prototype.options.icon = DefaultIcon;
-    var marker = L.marker(userLocation).addTo(map); // Add marker at userLocation
-    marker.bindPopup("<b>hy</b><br>I am Oussama.").openPopup();
-  }, [userLocation]);
 
-  return <div id="map" style={{ height: "400px", width: "100%" }}></div>;
+    // Render MUI icon to SVG string
+    const iconSvgString = renderToString(<MyLocationIcon fontSize="large" />);
+
+    // Create Leaflet icon using SVG string
+    const userIcon = L.icon({
+      iconUrl: `data:image/svg+xml;base64,${btoa(iconSvgString)}`,
+      iconSize: [24, 24], // Adjust size as needed
+    });
+
+    // Add user marker with MUI icon
+    L.marker(userLocation, { icon: userIcon }).addTo(map)
+      .bindPopup("<b>Your Location</b>")
+      .openPopup();
+
+  }, [userLocation, markers]);
+
+  return <div id="map" style={{ height: "400px", width: "90%" }}></div>;
 };
 
 export default UserLocationMap;
