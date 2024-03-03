@@ -25,6 +25,8 @@ Access the application in your browser at http://localhost:3000.
 Grant permission for geolocation when prompted, or manually enter your location.
 Explore nearby pharmacies and search for specific streets or cities.
 Log in to access protected routes such as searching for pharmacies.
+
 thank You For Your visite
+
 Oussama Amaali
 
