@@ -1,5 +1,5 @@
 Pharmacy Locator Application
-
+login (email : admin@admin.admin ,password : admin )
 The Pharmacy Locator Application is a web-based system designed to help users find nearby pharmacies based on their current location (Casablanca , Essaouira ,Agadir). It provides users with a list of pharmacies in their city and around them, along with their addresses, allowing them to quickly locate the nearest pharmacy.
 
 
@@ -39,4 +39,10 @@ Log in to access protected routes such as searching for pharmacies.
 thank You For Your visite
 
 Oussama Amaali
+![image](https://github.com/amaalioussama/geophar/assets/124906577/dae922b4-15d8-4553-86b6-6eb2cbd5ab8c)
+![image](https://github.com/amaalioussama/geophar/assets/124906577/93cb5f30-0ba3-4ac5-b54b-e2dd377265f4)
+![image](https://github.com/amaalioussama/geophar/assets/124906577/b77d4a2d-9ec4-4be3-af00-6440b5d7720a)
+
+
+
 
