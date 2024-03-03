@@ -6,14 +6,24 @@ The Pharmacy Locator Application is a web-based system designed to help users fi
 Features
 
 Geolocation: Utilizes the browser's geolocation API to determine the user's current location.
-Reverse Geocoding: Uses OpenStreetMap's Nominatim API to convert the user's coordinates into a readable address including the city and street.
+
+Reverse Geocoding: Uses OpenStreetMap's Nominatim API to convert the user's coordinates into a readable address including the city and 
+street.
+
 Pharmacy Search: Fetches a list of pharmacies in the user's city based on the obtained address.
+
 Session Management: Implements user authentication and session management using Express.js and express-session middleware.
+
 Protected Routes: Defines protected routes that require users to log in before accessing certain functionalities, such as searching for pharmacies in their area.
+
 Technologies Used
+
 Frontend: Built using Next.js
+
 Backend: Developed with Node.js and Express.js 
+
 Data Storage: Stores user and pharmacy data using JSON files.
+
 API Integration: Integrates with external APIs such as Nominatim for geocoding.
 
 How to Use
