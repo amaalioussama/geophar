@@ -1,13 +1,21 @@
 'use client';
 import React from 'react';
 import Image from 'next/image';
+import { useRouter } from 'next/navigation';
 import LogoImage from '../../../public/pharmacie.png';
 
 const Navbar = () => {
+  const router = useRouter();
+
+  const handleLogout = () => {
+   
+    localStorage.removeItem('isLoggedIn');
+ 
+    router.push('/login');
+  };
+
   return (
     <>
-     
-
       <aside id="logo-sidebar" className="fixed top-0 left-0 z-40 w-64 h-screen transition-transform -translate-x-full sm:translate-x-0" aria-label="Sidebar">
          <div className="h-full px-3 py-4 overflow-y-auto bg-white dark:bg-green-500">
             <a href="#" className="flex items-center ps-2.5 mb-5">
@@ -16,12 +24,12 @@ const Navbar = () => {
             </a>
             <ul className="space-y-2 font-medium">
                <li>
-                  <a href="#" className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-green-700  dark:bg-green-500 group">
+                  <button onClick={handleLogout} className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-green-700  dark:bg-green-500 group">
                      <svg className="w-5 h-5 text-gray-500 transition duration-75 dark:text-white group-hover:text-gray-900 dark:group-hover:text-black" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 21">
                         <path d="M16.975 11H10V4.025a1 1 0 0 0-1.066-.998 8.5 8.5 0 1 0 9.039 9.039.999.999 0 0 0-1-1.066h.002Z"/>
                      </svg>
                      <span className="ms-3">LogOut</span>
-                  </a>
+                  </button>
                </li>
                <li>
                   <a href="#" className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-green-700  dark:bg-green-500 group">
@@ -38,7 +46,7 @@ const Navbar = () => {
       </aside>
 
       <div className="p-4 sm:ml-64">
-         {/* Other content */}
+       
       </div>
     </>
   );

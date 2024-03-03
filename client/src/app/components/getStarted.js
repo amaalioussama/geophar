@@ -18,14 +18,14 @@ export default function GetStarted() {
         textAlign: 'center',
         alignItems: 'center',
         width: 343,
-        // to make the demo resizable
+       
         overflow: 'auto',
         resize: 'horizontal',
         '--icon-size': '100px',
-        backgroundColor: 'success.main', // Set background color to green
+        backgroundColor: 'success.main', 
       }}
     >
-      <CardOverflow variant="solid" color="success"> {/* Change color prop to "success" */}
+      <CardOverflow variant="solid" color="success">
         <AspectRatio
           variant="outlined"
           color="success"
@@ -59,7 +59,7 @@ export default function GetStarted() {
           width: 'clamp(min(100%, 160px), 50%, min(100%, 200px))',
         }}
       >
-      <Link href="/login"> {/* Adjust the href to match your route */}
+      <Link href="/login"> 
   <Button variant="plain" color="success">
     Get Started
   </Button>

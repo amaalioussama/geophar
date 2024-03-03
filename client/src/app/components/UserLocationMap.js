@@ -1,5 +1,5 @@
 "use client"
-// UserLocationMap.js
+
 import React, { useEffect } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
@@ -28,23 +28,22 @@ const UserLocationMap = ({ userLocation, markers }) => {
         "pk.eyJ1IjoidGFyLWhlbCIsImEiOiJjbDJnYWRieGMwMTlrM2luenIzMzZwbGJ2In0.RQRMAJqClc4qoNwROT8Umg",
     }).addTo(map);
 
-    // Render MUI icon to SVG string
+ 
     const iconSvgString = renderToString(<MyLocationIcon fontSize="large" />);
 
-    // Create Leaflet icon using SVG string
+
     const userIcon = L.icon({
       iconUrl: `data:image/svg+xml;base64,${btoa(iconSvgString)}`,
-      iconSize: [24, 24], // Adjust size as needed
+      iconSize: [24, 24], 
     });
 
-    // Add user marker with MUI icon
     L.marker(userLocation, { icon: userIcon }).addTo(map)
       .bindPopup("<b>Your Location</b>")
       .openPopup();
 
   }, [userLocation, markers]);
 
-  return <div id="map" style={{ height: "400px", width: "90%" }}></div>;
+  return <div id="map" style={{ height: "400px", width: "80%" }}></div>;
 };
 
 export default UserLocationMap;

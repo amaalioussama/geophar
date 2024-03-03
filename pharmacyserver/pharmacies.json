@@ -1780,6 +1780,104 @@
       "name": "Pharmacie Parfumerie Yasmine Souss 17",
       "address": "quartier Hay El Massira AGADIR"
     }
+], 
+"Essaouira": [
+  {
+    "name": "Pharmacie Al Haddadah",
+    "address": "63, bd AlIstiqlal ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie AlMallah Alqadim",
+    "address": "122, rue Mohamed Ben Abdellah ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Azlef",
+    "address": "626, lot. Azlef ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Bab Doukkala",
+    "address": "av ElMassira ElKhadra 44000 ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Bab Marrakech",
+    "address": "135, rue Med. ElQuatty ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Bouhaira",
+    "address": "102, rue Allal ElFassi ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Charrouj",
+    "address": "av Farhat Hachad n°13-52, Sekala ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie ElBorj",
+    "address": "5, rue 11 Janvier ElBorj I ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie ElMassira",
+    "address": "av. ElMassira ElKhadra , n°40-30 ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie ElMostakbal",
+    "address": "lotiss. AlMostakbal n°656-6 ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Hamad",
+    "address": "5, Place Chefchaouni 44000 ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Hôpital",
+    "address": "135 Bis, bd Mohamed ElKery ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Ibn Sina",
+    "address": "54, av. Akaba , q.i. ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie La Sakala",
+    "address": "bd ElAqaba , n°28-29, lot. Regraga ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Lalla Amina",
+    "address": "7, complexe commercial Lalla Amina ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Najib",
+    "address": "5, bd ElAkaba , Dar Taleb ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Populaire",
+    "address": "av. ElAqaba ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Principale",
+    "address": "1, rue Boutouile ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie Sidi Magdoul",
+    "address": "La Lagune , lot 5 n°1 44100 ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie la Gare",
+    "address": "av. Mly Driss 1 ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie la Kasbah",
+    "address": "12, rue Allal Ben Abdellah ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie la Mosquée",
+    "address": "243, av Ibnou Toufail , n°1 ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie la Plage",
+    "address": "1, av Lalla Amina , imm. Bounar ESSAOUIRA"
+  },
+  {
+    "name": "Pharmacie les dunes",
+    "address": "583, bd. AlAkaba , lot. n°4 ESSAOUIRA"
+  }
 ]
 
   }
